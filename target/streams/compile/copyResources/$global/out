@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/resource_managed/main/public/javascripts/index.js,/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/classes/public/javascripts/index.js)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/resource_managed/main/public/javascripts/index.min.js,/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/classes/public/javascripts/index.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/conf/application.conf,/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/conf/routes,/Users/rafaelrodriguez/Developer/activator-1.2.8-minimal/playapp/target/scala-2.10/classes/routes)[0m
